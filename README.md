@@ -5,6 +5,9 @@
 - **Ngày Kiểm Thử**: 19/6/2025
 - **Người Kiểm Thử**: Nguyễn Hữu Quân
 
+### Giới thiệu Postman
+Postman là một ứng dụng mã nguồn mở dùng để phát triển và kiểm thử các API (Application Programming Interface). Công nghệ cung cấp môi trường cho các nhà phát triển thực hiện hoạt động tạo, chia sẻ, kiểm thử và quản lý các API của họ. 
+Postman là một công cụ phổ biến dùng để gửi, kiểm thử và quản lý các request API RESTful. Nó hỗ trợ nhiều phương thức HTTP như GET, POST, PUT, DELETE và cho phép gửi dữ liệu dạng JSON, form-data, x-www-form-urlencoded, v.v.
 ### 1. Mục Tiêu Kiểm Thử
 
 Sử dụng Postman để kiểm thử một API thực tế.
